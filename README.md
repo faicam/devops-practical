@@ -1,1 +1,1 @@
-# devops-practical
+# devops-practical - fingertips tutorials
